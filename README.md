@@ -2,12 +2,13 @@
 
 This is a sturdy hook, suitable for mounting on a wall.
 
-![](hook.png)
+<img src="hook.png" height="600"/>
 
 | dimension (mm)          |     |
 |-------------------------|-----|
 | height                  | 150 |
 | depth                   | 95  |
+| width                   | 20  |
 | hook diam.              | 70  |
 | mount hole diam.        | 5   |
 | mount hole recess diam. | 10  |
